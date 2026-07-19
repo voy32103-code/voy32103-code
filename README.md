@@ -62,8 +62,6 @@
   <text x="50" y="120" class="subtitle-text">Software Engineer <tspan class="accent-mark">//</tspan> Backend Engineering <tspan class="accent-mark">//</tspan> Architecture</text>
   <text x="50" y="155" class="terminal-signal">[$] active_baseline_configuration: verified_</text>
 </svg>
-</p>
-
 ### System Status // Profile
 <p align="left">
   Final-year Software Engineering student architecting end-to-end full-stack web, mobile, and AI-assisted systems. Focused on modern backend engineering, concurrent data pipelines, and cloud-native application deployment.
