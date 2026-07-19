@@ -15,7 +15,6 @@
         <li>🚀 <b>Current Focus:</b> High-concurrency systems, Redis optimization, and LLM orchestration.</li>
         <li>🎓 <b>Education:</b> Software Engineering Student @ <b>HUFLIT</b>.</li>
         <li>💼 <b>Looking for:</b> Software Engineer Intern / Backend Developer Intern roles.</li>
-        <li>🌐 <b>Portfolio:</b> <a href="https://my-portfolio-web-ex66.onrender.com">my-portfolio-web-ex66.onrender.com</a></li>
       </ul>
     </td>
   </tr>
