@@ -1,13 +1,19 @@
 # Hi there, I'm Võ Hưng Yên 👋 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0:0d1117,50:1f4e79,100:0d1117&height=220&section=header&text=VÕ%20HƯNG%20YÊN&subText=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20AI%20Intern&fontSize=38&subFontSize=18&fontColor=ffffff&animation=twinkling" alt="Glassmorphism Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=0:0d1117,50:111827,100:0d1117&height=220&section=header&text=V%C3%95%20H%C6%AFNG%20Y%C3%8AN&subText=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20AI%20Explorer&fontSize=38&subFontSize=16&fontColor=00f2fe&subFontColor=a5b4fc&animation=twinkling" alt="Glassmorphism Banner" />
 </p>
+
+<div align="center">
+  <h3>⚡ Engineering scalable backend systems & orchestrating AI pipelines ⚡</h3>
+</div>
+
+<br/>
 
 ### 🔮 About Me
 <table>
   <tr>
-    <td>
+    <td width="65%">
       <p align="left">
         An aspiring <b>Software Engineer</b> specializing in <b>Backend Engineering, Distributed Systems, and AI-powered Software Solutions</b>. Currently in my final year, architecting modern, high-performance systems with a focus on clean code and smart automation.
       </p>
@@ -17,88 +23,106 @@
         <li>💼 <b>Looking for:</b> Software Engineer Intern / Backend Developer Intern roles.</li>
       </ul>
     </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHB1MGVwdzN0NDJ1MmltN3lyN2R5bWN2dmpxb3c5a3ozOHlyZmV0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1QHdVJu90xIddxo/giphy.gif" width="150px" alt="Coding GIF"/>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 💻 Tech Stack & Glass Toolkit
+### 🛠️ Tech Stack & Architecture Toolkit
 
-> 💡 *Click on the skills to discover related repositories.*
-
-**Core Engineering & Frameworks**
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,react,ts,js,java,html,css,tailwind,bootstrap&theme=dark)](https://skillicons.dev)
-
-**Data, Infrastructure & Cloud Ecosystem**
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,svg,docker,githubactions,redis,vercel,figma,postman&theme=dark)](https://skillicons.dev)
-
----
-
-### 🌟 Featured Projects (Frosted Glass Cards)
-
-<details open>
-<summary><b>🤖 ReqSimulator — AI-powered Requirement Engineering Platform</b></summary>
-<blockquote>
-  <p><b>Graduation Thesis | Microservices Architecture</b></p>
-  <ul>
-    <li><b>Tech Stack:</b> ASP.NET Core 9 • FastAPI • PostgreSQL • TypeScript • Gemini AI</li>
-    <li>Designed a robust 3-service architecture (Frontend, Backend, and AI Service).</li>
-    <li>Integrated Gemini AI to simulate interactive enterprise stakeholders and evaluate user requirements via semantic similarity.</li>
-  </ul>
-  <p>🔗 <a href="https://kltn-chi.vercel.app">Live Demo</a></p>
-</blockquote>
-</details>
-
-<details>
-<summary><b>✈️ HungYenAirline — Flight Booking System</b></summary>
-<blockquote>
-  <p><b>Enterprise Web & Android Native Ecosystem</b></p>
-  <ul>
-    <li><b>Tech Stack:</b> ASP.NET Core 8 • SQL Server • Android Native • VNPAY</li>
-    <li>Applied <code>RowVersion</code> optimistic concurrency control to eliminate flight seat booking conflicts.</li>
-    <li>Integrated VNPAY gateway and secured vectors with Cookie Auth, JWT, and BCrypt hashing.</li>
-  </ul>
-  <p>🔗 <a href="https://github.com/voy32103-code/HungYenAirline_web">Web Repository</a> | <a href="https://github.com/voy32103-code/HungYenAirline-Android">Android Repository</a></p>
-</blockquote>
-</details>
-
-<details>
-<summary><b>📊 WebCRM — Enterprise Customer Relationship Management</b></summary>
-<blockquote>
-  <p><b>Full-Stack Workflow Automation</b></p>
-  <ul>
-    <li><b>Tech Stack:</b> React • Node.js • Express.js • PostgreSQL • Gemini AI</li>
-    <li>Built responsive analytical dashboards supporting Kanban and granular table data visualization.</li>
-    <li>Leveraged Gemini AI pipelines for predictive lead potential analysis and contextual email drafting.</li>
-  </ul>
-  <p>🔗 <a href="https://webcrm-landing-page.vercel.app">Live Demo</a> | <a href="https://github.com/voy32103-code/WebCRM">GitHub</a></p>
-</blockquote>
-</details>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>💻 Core Engineering & Frameworks</b>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,react,ts,js,java,html,css,tailwind,bootstrap&theme=dark" alt="Core Skills" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <b>☁️ Data, Infra & Cloud Ecosystem</b>
+      <br/><br/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,svg,docker,githubactions,redis,vercel,figma,postman&theme=dark" alt="Infra Skills" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Transparent Glass Metrics
+### 🌟 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td>
+      <h4>🤖 <a href="https://kltn-chi.vercel.app">ReqSimulator</a> — AI-powered Requirement Engineering Platform</h4>
+      <p><b>Graduation Thesis | Microservices Architecture</b></p>
+      <ul>
+        <li><b>Tech Stack:</b> <code>ASP.NET Core 9</code> • <code>FastAPI</code> • <code>PostgreSQL</code> • <code>TypeScript</code> • <code>Gemini AI</code></li>
+        <li>Designed a robust 3-service architecture (Frontend, Backend, and AI Service).</li>
+        <li>Integrated Gemini LLM to simulate interactive enterprise stakeholders and evaluate user requirements via semantic similarity.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>✈️ <a href="https://github.com/voy32103-code/HungYenAirline_web">HungYenAirline</a> — Flight Booking System</h4>
+      <p><b>Enterprise Web & Android Native Ecosystem</b></p>
+      <ul>
+        <li><b>Tech Stack:</b> <code>ASP.NET Core 8</code> • <code>SQL Server</code> • <code>Android Native</code> • <code>VNPAY</code></li>
+        <li>Applied <code>RowVersion</code> optimistic concurrency control to eliminate flight seat booking conflicts.</li>
+        <li>Integrated VNPAY gateway and secured vectors with Cookie Auth, JWT, and BCrypt hashing.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>📊 <a href="https://webcrm-landing-page.vercel.app">WebCRM</a> — Enterprise Customer Relationship Management</h4>
+      <p><b>Full-Stack Workflow Automation</b></p>
+      <ul>
+        <li><b>Tech Stack:</b> <code>React</code> • <code>Node.js</code> • <code>Express.js</code> • <code>PostgreSQL</code> • <code>Gemini AI</code></li>
+        <li>Built responsive analytical dashboards supporting Kanban and granular table data visualization.</li>
+        <li>Leveraged Gemini AI pipelines for predictive lead potential analysis and contextual email drafting.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voy32103-code&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=7abcff&border_color=30363d&border_radius=10&count_private=true" alt="Yen's GitHub Stats" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voy32103-code&layout=compact&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=7abcff&border_color=30363d&border_radius=10" alt="Top Languages" height="165px"/>
+  <a href="https://github.com/voy32103-code">
+    <img src="https://github-readme-stats.vercel.app/api?username=voy32103-code&show_icons=true&theme=transparent&title_color=00f2fe&text_color=e2e8f0&icon_color=38b2ac&border_color=1f2937&border_radius=8&count_private=true" alt="Yen's GitHub Stats" height="175px"/>
+  </a>
+  <a href="https://github.com/voy32103-code">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voy32103-code&layout=compact&theme=transparent&title_color=00f2fe&text_color=e2e8f0&icon_color=38b2ac&border_color=1f2937&border_radius=8" alt="Top Languages" height="175px"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voy32103-code&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=7abcff&border_color=30363d&border_radius=10" alt="GitHub Streak" width="100%" max-width="400px"/>
+  <a href="https://github.com/voy32103-code">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=voy32103-code&theme=transparent&title_color=00f2fe&text_color=e2e8f0&icon_color=38b2ac&border_color=1f2937&border_radius=8" alt="GitHub Streak" width="100%" max-width="450px" />
+  </a>
 </p>
 
 ---
 
 ### 🤝 Secure a Connection
+
 <p align="left">
   <a href="mailto:voy32103@gmail.com">
-    <img src="https://img.shields.io/badge/Email-voy32103%40gmail.com-1f4e79?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=1f4e79" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-voy32103%40gmail.com-00f2fe?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
   </a>
   <a href="tel:+84355161941">
-    <img src="https://img.shields.io/badge/Phone-(%2B84)%20355%20161%20941-1f4e79?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117&color=1f4e79" alt="Phone"/>
+    <img src="https://img.shields.io/badge/Phone-(%2B84)%20355%20161%20941-00f2fe?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="Phone"/>
   </a>
   <a href="YOUR_LINKEDIN_URL_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-1f4e79?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=1f4e79" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00f2fe?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
 </p>
