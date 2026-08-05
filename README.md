@@ -12,7 +12,7 @@
 * **Current Focus:** High-concurrency architectures, distributed caching optimization, and automated LLM orchestration.
 * **Education:** Software Engineering Student at HUFLIT (Expected Graduation: 2027).
 * **Target Position:** Software Engineer Intern / Backend Developer Intern / Full Stack Developer Intern.
-* **Deployment Matrix:** [my-portfolio-web-ex66.onrender.com](https://my-portfolio-web-ex66.onrender.com)
+
 
 ---
 
